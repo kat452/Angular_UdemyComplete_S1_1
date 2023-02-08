@@ -1,4 +1,11 @@
 # UdemyS1A
+Useful commands 
+ng new app_name  --no-strict
+or
+ng new app_name
+ng serve
+
+
 
 This project was generated with [Angular CLI](https://github.com/angular/angular-cli) version 15.1.4.
 
